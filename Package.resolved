@@ -1,0 +1,33 @@
+{
+  "originHash" : "4158c38bf5eec5ddc039b89928f5522c213536592b601e4e214d7b42c50309bd",
+  "pins" : [
+    {
+      "identity" : "madboards",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/madmachineio/MadBoards.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5d4feabdb3cca59340b31da69746d39d407931ab"
+      }
+    },
+    {
+      "identity" : "maddrivers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/madmachineio/MadDrivers.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b730cc042e7632c62431903cc93d0be70341b1d0"
+      }
+    },
+    {
+      "identity" : "swiftio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/madmachineio/SwiftIO.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "92d5cccfdc19cef8e0e7dbb01237d5457d5b209f"
+      }
+    }
+  ],
+  "version" : 3
+}
